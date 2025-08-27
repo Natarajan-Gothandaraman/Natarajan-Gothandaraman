@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natarajan Gothandaraman  
 
-💻 **Full Stack Developer | Java Enthusiast | Blockchain Explorer**  
+💻 **Full Stack Developer | Java Enthusiast   
 📍 Tiruppur, Tamil Nadu | ✉️ [natarajangothandaraman@gmail.com](mailto:natarajangothandaraman@gmail.com)  
 
 ---
@@ -25,29 +25,7 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 
 ---
 
-## 🛠️ Projects  
 
-### 📌 **Employee Management System** (React + Spring Boot + MySQL)  
-- CRUD web app with REST APIs and MySQL database integration.  
-- Frontend built with **React** and backend with **Spring Boot**.  
-🔗 [GitHub Repo](https://github.com/Natarajan-Gothandaraman)  
-
-### 📌 **E-Commerce Website (Zindra)** (HTML, CSS, JavaScript)  
-- Designed a **responsive e-commerce site** with shopping cart functionality.  
-- Live Demo: [Zindra](https://zindra-e-commerce.vercel.app/)  
-
-### 📌 **Blockchain Voting System** (Solidity, Ethereum, Remix IDE)  
-- Built a smart contract for secure, one-time voting.  
-- Ensured voter anonymity using hashing techniques.  
-🔗 [Blockchain Repo](https://github.com/Natarajan-Gothandaraman)  
-
----
-
-## 🎓 Education  
-- **MCA | Erode Sengunthar Engineering College** | CGPA: 9.1 (2022)  
-- **B.Sc Mathematics with Computer Applications | K.S.G College of Arts & Science** | CGPA: 7.7 (2020)  
-
----
 
 ## ⚡ Skills  
 
@@ -68,7 +46,3 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 - 🔗 [LinkedIn](https://www.linkedin.com/in/natarajangothandaraman/)  
 - 📄 [Resume](https://drive.google.com/file/d/1znYBw9UVOh447zGIa_i-XmDw6e-G57il/view?usp=drive_link)  
 - ✉️ [Email](mailto:natarajangothandaraman@gmail.com)  
-
----
-
-✨ *Always open to collaborating on exciting projects and innovative ideas!*  
